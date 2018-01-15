@@ -10,7 +10,7 @@ namespace Codewars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(TriangularTreasure.Triangular(3));
+            Console.WriteLine(DescendingOrderKata.DescendingOrder(145263));
         
             Console.ReadKey();
         }
