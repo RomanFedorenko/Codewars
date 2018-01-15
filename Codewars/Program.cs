@@ -10,7 +10,7 @@ namespace Codewars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(NthDigit.FindDigit(-456, 4));
+            Console.WriteLine(TriangularTreasure.Triangular(3));
         
             Console.ReadKey();
         }
