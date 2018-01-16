@@ -10,7 +10,7 @@ namespace Codewars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(DescendingOrderKata.DescendingOrder(145263));
+            Console.WriteLine(ParseAndCount.PaC("wqrrrq]q-++ Enter answer: 6334 +1555555"));
         
             Console.ReadKey();
         }

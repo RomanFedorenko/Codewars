@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="DescendingOrder.cs" />
     <Compile Include="NthDigit.cs" />
+    <Compile Include="ParseAndCount.cs" />
     <Compile Include="PascalsTriangle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
