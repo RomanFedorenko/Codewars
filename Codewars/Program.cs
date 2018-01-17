@@ -10,7 +10,7 @@ namespace Codewars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(ParseAndCount.PaC("wqrrrq]q-++ Enter answer: 6334 +1555555"));
+            Console.WriteLine(PopulationGrowth.NbYear(1500000, 0, 10000, 2000000));
         
             Console.ReadKey();
         }
