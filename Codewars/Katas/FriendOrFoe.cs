@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Codewars.Katas
 {
     //    Make a program that filters a list of strings and returns a list with only your friends name in it.
@@ -17,8 +14,7 @@ namespace Codewars.Katas
     {
         public static IEnumerable<string> FriendOrFoes(string[] names)
         {
-            return names.Where(name=>name.Length==4);
-            //test
+            return names.Where(name=>name.Length==4);         
         }
     }
 }
