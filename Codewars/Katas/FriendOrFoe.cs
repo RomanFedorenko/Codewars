@@ -18,7 +18,6 @@ namespace Codewars.Katas
         public static IEnumerable<string> FriendOrFoes(string[] names)
         {
             return names.Where(name=>name.Length==4);
-            //test
         }
     }
 }
