@@ -43,17 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DescendingOrder.cs" />
-    <Compile Include="NthDigit.cs" />
-    <Compile Include="ParseAndCount.cs" />
-    <Compile Include="PascalsTriangle.cs" />
-    <Compile Include="PopulationGrowth.cs" />
+    <Compile Include="Katas\DescendingOrder.cs" />
+    <Compile Include="Katas\NthDigit.cs" />
+    <Compile Include="Katas\ParseAndCount.cs" />
+    <Compile Include="Katas\PascalsTriangle.cs" />
+    <Compile Include="Katas\PopulationGrowth.cs" />
+    <Compile Include="Katas\SumOfNumber3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RemoveSpaces.cs" />
-    <Compile Include="TheOldSwitcheroo.cs" />
-    <Compile Include="TriangularTreasure.cs" />
-    <Compile Include="VerySimpleInheritance.cs" />
+    <Compile Include="Katas\RemoveSpaces.cs" />
+    <Compile Include="Katas\TheOldSwitcheroo.cs" />
+    <Compile Include="Katas\TriangularTreasure.cs" />
+    <Compile Include="Katas\VerySimpleInheritance.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
