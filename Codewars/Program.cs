@@ -8,7 +8,7 @@ namespace Codewars
         static void Main(string[] args)
         {
             // Console.WriteLine(PopulationGrowth.NbYear(1500000, 0, 10000, 2000000));
-            Console.WriteLine(SumOfNumber3.GetSum(1,3));
+            Console.WriteLine(SumOfDigitsDigitalRoot.DigitalRoot(942));
             Console.ReadKey();
         }
     }

@@ -48,6 +48,7 @@
     <Compile Include="Katas\ParseAndCount.cs" />
     <Compile Include="Katas\PascalsTriangle.cs" />
     <Compile Include="Katas\PopulationGrowth.cs" />
+    <Compile Include="Katas\SumOfDigitsDigitalRoot.cs" />
     <Compile Include="Katas\SumOfNumber3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
