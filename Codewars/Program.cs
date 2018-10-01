@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Codewars.Katas;
 
 namespace Codewars
@@ -8,7 +9,7 @@ namespace Codewars
         static void Main(string[] args)
         {
             // Console.WriteLine(PopulationGrowth.NbYear(1500000, 0, 10000, 2000000));
-            Console.WriteLine(OnesAndZeros.binaryArrayToNumber(new int[] { 0, 1, 1, 0 }));
+            Console.WriteLine(NumberOfPeopleInTheBus.Number(new List<int[]>() { new[] { 10, 0 }, new[] { 3, 5 }, new[] { 5, 8 } }));
             Console.ReadKey();
         }
     }
