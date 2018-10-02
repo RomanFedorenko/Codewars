@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Katas\DescendingOrder.cs" />
     <Compile Include="Katas\Dubstep.cs" />
+    <Compile Include="Katas\FindTheOddInt.cs" />
     <Compile Include="Katas\FriendOrFoe.cs" />
     <Compile Include="Katas\NthDigit.cs" />
     <Compile Include="Katas\NumberOfPeopleInTheBus.cs" />
